@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deniss-muhla
 - 👀 I’m interested in web technologies 
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on Typescript, React.js, Solid.js projects.
+- 🌱 I’m currently learning Rust, Solid.js
+- 💞️ I’m looking to collaborate on Typescript, React.js projects.
 - 📫 How to reach me deniss.muhla@gmail.com
 
 <!---
